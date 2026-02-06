@@ -79,10 +79,10 @@ The platform allows users to:
 
 **Live URL:**  
 http://103.158.43.36:8502
+
 **Network URL:**
 http://10.24.6.170:8502
 
-> Note: GenAI explanations are disabled in the deployed environment due to infrastructure restrictions. Core risk analysis remains fully functional.
 
 ---
 
