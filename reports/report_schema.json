@@ -1,0 +1,25 @@
+{
+  "contract_metadata": {
+    "contract_type": "",
+    "language": "",
+    "overall_risk_level": "",
+    "overall_risk_score": 0
+  },
+  "parties": [],
+  "key_dates": [],
+  "financials": [],
+  "clause_analysis": [
+    {
+      "clause_id": "",
+      "text": "",
+      "nature": "",
+      "ambiguity": false,
+      "compliance_issues": [],
+      "risk_score": 0,
+      "risk_level": ""
+    }
+  ],
+  "high_risk_clauses": [],
+  "summary": "",
+  "recommendations": []
+}

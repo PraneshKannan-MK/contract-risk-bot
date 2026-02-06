@@ -1,0 +1,17 @@
+risk_thresholds:
+  low: 2
+  medium: 5
+
+language:
+  supported:
+    - en
+    - hi
+  default: en
+
+features:
+  enable_multilingual: true
+  enable_pdf_export: true
+  enable_llm_explanations: false
+
+audit:
+  enabled: true

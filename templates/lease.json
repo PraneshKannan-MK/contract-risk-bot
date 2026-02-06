@@ -1,0 +1,11 @@
+{
+  "name": "Lease Agreement",
+  "clauses": {
+    "premises": "The Lessor leases the premises to the Lessee for commercial use.",
+    "rent": "The Lessee shall pay monthly rent on or before the 5th of each month.",
+    "lock_in": "The lease shall have a lock-in period of 12 months.",
+    "maintenance": "The Lessee shall maintain the premises in good condition.",
+    "termination": "Termination requires 60 days written notice.",
+    "governing_law": "This lease shall be governed by Indian law."
+  }
+}

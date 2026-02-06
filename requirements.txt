@@ -1,0 +1,25 @@
+# Core app
+streamlit>=1.32.0
+
+# File parsing
+pdfplumber>=0.11.0
+python-docx>=1.1.0
+
+# NLP / text handling
+spacy>=3.7.0
+nltk>=3.8.1
+
+# Reports / PDF export
+reportlab>=4.0.8
+
+# HTTP client (for Ollama)
+requests>=2.31.0
+
+# Config handling
+pyyaml>=6.0.1
+
+# Testing
+pytest>=8.0.0
+
+# Utilities
+tqdm>=4.66.1

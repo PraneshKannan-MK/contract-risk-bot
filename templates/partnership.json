@@ -1,0 +1,13 @@
+{
+  "name": "Partnership Agreement",
+  "clauses": {
+    "formation": "The parties agree to form a partnership for the purpose of carrying on a lawful business.",
+    "capital_contribution": "Each partner shall contribute capital as mutually agreed in writing.",
+    "profit_sharing": "Profits and losses shall be shared equally unless otherwise agreed by the partners.",
+    "management": "All partners shall have the right to participate in the management of the partnership.",
+    "duties": "Each partner shall act in good faith and in the best interest of the partnership.",
+    "indemnity": "The partnership shall indemnify partners for actions taken in the ordinary course of business.",
+    "termination": "The partnership may be dissolved by mutual written consent of all partners.",
+    "governing_law": "This agreement shall be governed by the laws of India."
+  }
+}

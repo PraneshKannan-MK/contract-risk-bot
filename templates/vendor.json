@@ -1,0 +1,11 @@
+{
+  "name": "Vendor Agreement",
+  "clauses": {
+    "scope": "The Vendor shall supply goods or services as specified in the purchase order.",
+    "payment": "Payments shall be made within 30 days from the date of invoice.",
+    "indemnity": "The Vendor agrees to indemnify the Client against third-party claims.",
+    "liability": "The Vendor’s liability shall be limited to the contract value.",
+    "termination": "Either party may terminate this agreement with 15 days written notice.",
+    "jurisdiction": "Courts in India shall have exclusive jurisdiction."
+  }
+}

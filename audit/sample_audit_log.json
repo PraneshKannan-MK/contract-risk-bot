@@ -1,0 +1,11 @@
+[
+  {
+    "event_id": "123e4567",
+    "timestamp": "2026-02-06T08:30:00Z",
+    "event_type": "CONTRACT_UPLOADED",
+    "details": {
+      "file_type": "pdf",
+      "language": "en"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Streamlit
+.streamlit/
+
+# Data & outputs
+data/sample_contracts/
+contract_risk_report.pdf
+
+# OS
+.DS_Store
+
+# Logs
+*.log

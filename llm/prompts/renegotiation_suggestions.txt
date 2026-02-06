@@ -1,0 +1,6 @@
+You are assisting an SME owner.
+Suggest safer alternative wording for the clause below.
+Keep suggestions generic and non-legal.
+
+Clause:
+{{CLAUSE_TEXT}}

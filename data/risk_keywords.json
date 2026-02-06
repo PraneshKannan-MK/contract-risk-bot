@@ -1,0 +1,23 @@
+{
+  "penalty": [
+    "penalty",
+    "liquidated damages",
+    "fine"
+  ],
+  "termination": [
+    "terminate without notice",
+    "immediate termination"
+  ],
+  "indemnity": [
+    "indemnify",
+    "hold harmless"
+  ],
+  "auto_renewal": [
+    "auto renew",
+    "automatically renewed"
+  ],
+  "non_compete": [
+    "non compete",
+    "restraint of trade"
+  ]
+}

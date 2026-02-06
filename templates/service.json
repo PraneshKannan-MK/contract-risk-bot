@@ -1,0 +1,13 @@
+{
+  "name": "Service Agreement",
+  "clauses": {
+    "scope_of_services": "The Service Provider shall perform the services described in the scope of work.",
+    "deliverables": "The Service Provider shall deliver agreed outputs within the specified timelines.",
+    "payment_terms": "The Client shall pay service fees as specified in the invoice within 30 days.",
+    "service_levels": "The services shall be performed with reasonable skill and care.",
+    "confidentiality": "Both parties agree to maintain confidentiality of all shared information.",
+    "intellectual_property": "All intellectual property created during the engagement shall belong to the Client unless agreed otherwise.",
+    "termination": "Either party may terminate this agreement with 30 days written notice.",
+    "governing_law": "This agreement shall be governed by the laws of India."
+  }
+}

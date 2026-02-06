@@ -1,0 +1,11 @@
+{
+  "name": "Employment Agreement",
+  "clauses": {
+    "appointment": "The Employer appoints the Employee to perform duties as assigned from time to time.",
+    "compensation": "The Employee shall be paid a fixed monthly salary subject to applicable deductions.",
+    "working_hours": "The Employee shall work standard business hours unless otherwise required.",
+    "confidentiality": "The Employee shall maintain strict confidentiality of all proprietary information.",
+    "termination": "Either party may terminate this agreement by providing 30 days written notice.",
+    "governing_law": "This agreement shall be governed by the laws of India."
+  }
+}
